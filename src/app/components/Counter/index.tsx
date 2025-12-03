@@ -10,7 +10,7 @@ const Counter = () => {
 
 
     return <div>
-        Counter: {count}
+        Counter:   {count}
     </div>
 }
 
