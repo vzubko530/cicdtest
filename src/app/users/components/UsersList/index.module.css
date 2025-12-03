@@ -1,0 +1,11 @@
+.user {
+    display: block;
+    padding: 10px;
+    border: 1px solid #000;
+    max-width: 300px;
+    text-align: center;
+}
+
+.user:not(:last-child) {
+    margin-bottom: 8px;
+}
