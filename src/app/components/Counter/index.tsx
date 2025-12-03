@@ -8,7 +8,7 @@ const Counter = () => {
 
 
     return <div>
-        {count}
+        Counter: {count}
     </div>
 }
 
