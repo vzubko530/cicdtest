@@ -1,7 +1,5 @@
 'use client'
 
-import { useState } from "react";
-
 import { useAppSelector } from "@/store/store";
 
 const Counter = () => {
@@ -10,7 +8,7 @@ const Counter = () => {
 
 
     return <div>
-        Counter: {count}
+        Counter:   {count}
     </div>
 }
 
